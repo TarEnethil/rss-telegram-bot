@@ -25,7 +25,7 @@ cp config.json.template config.json
 Examples:
 ```
 # check for new feeds every hour
-0 0 * * * cd <path>/rss-telegram-bot && venv/bin/python bot.py
+0 * * * * cd <path>/rss-telegram-bot && venv/bin/python bot.py
 ```
 
 
