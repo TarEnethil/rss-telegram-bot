@@ -5,7 +5,6 @@
             "title" : "",
             "author" : "",
             "feed_url" : "",
-            "snippet" : true,
             "chat_id": ""
         }
     ]
